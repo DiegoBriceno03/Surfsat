@@ -1,5 +1,0 @@
-Order list for /home/diego/Git/Surfsat/Boards/Raspberry connector.sch
-Exported from EAGLE with DesignLink
-
-Quantity	Value	Package	Order code	Manufacturer	Manuf. Code	Availability	Price (from)	Description
-2		2X20	14X9424		1814634	0		PHOENIX CONTACT - 1814634 - PTSM 0 5/ 2-2 5-H SMD WH R24
